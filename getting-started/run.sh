@@ -1,0 +1,1 @@
+docker run -e USER=$USER -p 4000:80 --name=my-first-container my-first-image
